@@ -37,3 +37,9 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# macOS files
+.DS_Store
+
+# Rproj
+.Rproj
